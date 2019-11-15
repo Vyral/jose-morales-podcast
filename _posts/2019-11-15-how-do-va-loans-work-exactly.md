@@ -1,11 +1,11 @@
 ---
 layout: post
 title: How Do VA Loans Work Exactly?
-date: 2019-11-15 20:36:18
+date: 2019-11-15 20:36:00
 tags:
-excerpt: >-
+excerpt:
+enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jose+Morales/Videos/2019/How+Do+VA+Loans+Work+Exactly_+-+Southern+California+Real+Estate.mp4
-enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
