@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Fire Insurance
-date: 2019-12-16 20:08:26
+date: 2019-12-16 20:08:00
 tags:
 excerpt: >-
   As you know, recent fires have caused a great deal of damage in our state. Do
   you know what will happen if your property is affected?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jose+Morales/Videos/2019/Fire+Insurance+-+Southern+California+Real+Estate+Agent.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
