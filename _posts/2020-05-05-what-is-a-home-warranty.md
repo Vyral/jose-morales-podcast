@@ -1,10 +1,11 @@
 ---
 layout: post
 title: What Is A Home Warranty?
-date: 2020-05-05 15:44:50
+date: 2020-05-05 15:44:00
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jose+Morales/Videos/2020/What+Is+A+Home+Warranty_+-+Southern+California+Real+Estate+Agent.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
