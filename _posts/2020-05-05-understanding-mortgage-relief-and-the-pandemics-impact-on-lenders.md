@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Understanding Mortgage Relief and the Pandemic’s Impact on Lenders
-date: 2020-05-05 15:46:50
+date: 2020-05-05 15:46:00
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jose+Morales/Videos/2020/Do+I+Have+to+Pay+My+Mortgage+If+I+Was+Laid+off+as+a+Result+of+COVID-19_+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
