@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Breaking Down the SBA’s ‘10K’ Relief Plan
-date: 2020-05-05 15:48:55
+date: 2020-05-05 15:48:00
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jose+Morales/Videos/2020/How+To+Receive+%2410k+For+Free+From+The+Government+-+Southern+California+Real+Estate+Agent.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
