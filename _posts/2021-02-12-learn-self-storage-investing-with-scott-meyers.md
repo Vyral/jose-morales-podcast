@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn Self Storage Investing with Scott Meyers
-date: 2021-02-12 07:26:17
+date: 2021-02-12 07:26:00
 tags:
 excerpt:
 enclosure:
