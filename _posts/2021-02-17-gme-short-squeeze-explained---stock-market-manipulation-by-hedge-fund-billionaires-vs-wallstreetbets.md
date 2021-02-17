@@ -6,7 +6,8 @@ title: >-
 date: 2021-02-17 01:39:00
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jose+Morales/Videos/2020/Power+Up+Your+Depreciation+Formula+with+Andrew+Kiefer.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
