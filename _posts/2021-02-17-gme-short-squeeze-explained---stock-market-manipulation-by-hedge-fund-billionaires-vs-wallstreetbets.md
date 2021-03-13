@@ -8,7 +8,7 @@ tags:
   - Real Estate
 excerpt: GME Short Squeeze Explained - Stock Market Manipulation By Hedge Fund
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jose+Morales/Videos/2020/Power+Up+Your+Depreciation+Formula+with+Andrew+Kiefer.mp4
+  https://test1fdsf.s3-us-west-1.amazonaws.com/How_to_get_started_in_real_estate_investing_Sam_Weaver+Full.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +16,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: twJgnsEcH1k
 ---
-
 {% include youtube.html %}
 
 This episode \#42 of the Morales Group Show, we will be talking about the real estate exit strategies Alex mostly uses. Our guest is an active investor in the real estate markets of Florida, Indiana, Virginia, Tennessee, Nevada, and other markets.&nbsp;
